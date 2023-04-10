@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adebayoCS50
-- 👀 I’m interested in ...Robotic Process Automation, Business Data Analytics
+- 👀 I’m interested in ...Robotic Process Automation, API Design & Dev, Business Data Analytics
 - 🌱 I’m currently learning ...Python, Data Viz, React
 - 💞️ I’m looking to collaborate on ... RPA Solution, Digital Transformation & Data Analytics
 - 📫 How to reach me ...Linkedin @salakosunday
