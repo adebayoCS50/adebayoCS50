@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adebayoCS50
 - 👀 I’m interested in ...Robotic Process Automation, API Design & Dev, Business Data Analytics
-- 🌱 I’m currently learning ...Python, Data Viz, React
-- 💞️ I’m looking to collaborate on ... RPA Solution, Digital Transformation & Data Analytics
+- 🌱 I’m currently learning ...Javascript, Tailwind and React
+- 💞️ I’m looking to collaborate on ... RPA Solution on e-banking operation process flow, Digital Transformation projects and Identity Management Solutions
 - 📫 How to reach me ...Linkedin @salakosunday
 
 <!---
